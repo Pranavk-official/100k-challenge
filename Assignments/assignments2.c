@@ -1,7 +1,10 @@
 // 1. Write a program to check whether a student has passed or failed in a
 // subject after he or she enters their mark (pass mark for a subject is 50 out
 // of 100). a. Program should accept an input from the user and output a message
-// as “Passed” or “Failed” Variable     Data type mark         float
+// as “Passed” or “Failed” 
+
+// Variable     Data type 
+// mark         float
 
 #include <stdio.h>
 
@@ -19,13 +22,17 @@ int main(void) {
   }
 
   // 2. Write a program to show the grade obtained by a student after he/she
-  // enters their total mark percentage. a. Program should accept an input from
-  // the user and display their grade as follows Mark     Grade < 90       A
-  // 80-89      B
-  // 70-79      C
-  // 60-69      D
-  // 50-59      E
-  // < 50      Failed
+  // enters their total mark percentage. 
+  
+  //   a. Program should accept an input fromthe user and display their grade as follows 
+  //   Mark       Grade 
+  //   < 90         A
+  //   80-89        B
+  //   70-79        C
+  //   60-69        D
+  //   50-59        E
+  //   < 50         Failed
+  //   Total mark   float
 
   printf("\n\nQuestion 2\n");
 
