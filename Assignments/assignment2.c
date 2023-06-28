@@ -98,7 +98,7 @@ int main(void) {
   default:
     printf("Invalid input");
   }
-return 0;
+
 
   return 0;
 }
