@@ -100,7 +100,7 @@ int main(void) {
 
   printf("\n\nQuestion 3\n");
 
-  int a[20],i;
+  int a[20], i;
 
   printf("Enter the size of Array: ");
   scanf("%d", &size);
